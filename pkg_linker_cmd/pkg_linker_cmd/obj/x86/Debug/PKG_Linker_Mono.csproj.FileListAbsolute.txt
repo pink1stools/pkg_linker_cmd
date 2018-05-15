@@ -1,0 +1,5 @@
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/PKG_Linker_Mono.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/PKG_Linker_Mono.pdb
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/PKG_Linker_Mono.csproj.CoreCompileInputs.cache
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/PKG_Linker_Mono.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/PKG_Linker_Mono.pdb

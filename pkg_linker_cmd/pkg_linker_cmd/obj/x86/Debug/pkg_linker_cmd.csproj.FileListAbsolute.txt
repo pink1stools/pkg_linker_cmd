@@ -1,0 +1,17 @@
+c:/users/josh/documents/visual studio 2010/Projects/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.exe
+c:/users/josh/documents/visual studio 2010/Projects/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.pdb
+c:/users/josh/documents/visual studio 2010/Projects/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.exe
+c:/users/josh/documents/visual studio 2010/Projects/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.pdb
+C:/Users/Josh/Documents/Visual Studio 2010/Projects/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.csprojResolveAssemblyReference.cache
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.exe
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.pdb
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.csproj.CoreCompileInputs.cache
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.exe
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.pdb
+C:/Users/home/Desktop/josh/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.csprojAssemblyReference.cache
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_linker_cmd.pdb
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.csprojResolveAssemblyReference.cache
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.csproj.CoreCompileInputs.cache
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_linker_cmd.pdb

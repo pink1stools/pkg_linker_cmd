@@ -1,0 +1,5 @@
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_lnker_cmd.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/bin/Debug/pkg_lnker_cmd.pdb
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_lnker_cmd.csproj.CoreCompileInputs.cache
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_lnker_cmd.exe
+/home/josh/Desktop/pkg_linker_cmd/pkg_linker_cmd/obj/x86/Debug/pkg_lnker_cmd.pdb
